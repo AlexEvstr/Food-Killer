@@ -213,3 +213,15 @@ Received Import Request.
   path: Assets/Graphics/GUI/icon_project-r.png
   artifactKey: Guid(0304eaad48a8d47fba598dcc35694b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Graphics/GUI/icon_project-r.png using Guid(0304eaad48a8d47fba598dcc35694b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bedb008b0baa4c6927d52a0374246517') in 0.006380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 272.865495 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55ccaa32d8e5c1de03c07a5412c8c3c') in 0.000817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.487144 seconds.
+  path: Assets/Scenes/GameScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e45ca21a33c87628472138b8026b5c0') in 0.000978 seconds 
