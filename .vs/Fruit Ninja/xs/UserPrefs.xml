@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{15D93A24-E61E-7E28-E752-4471B5F095ED}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="93ff3086-6c14-4d6c-89fb-0e537eb17531" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ASliceAction.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ASliceAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Slice.cs" />
+      <File FileName="Assets/Scripts/SliceActionBigFood.cs" />
+      <File FileName="Assets/Scripts/SliceActionNormalFood.cs" Line="4" Column="40" />
+      <File FileName="Assets/Scripts/SliceActionSmallFood.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
