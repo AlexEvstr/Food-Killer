@@ -1,5 +1,4 @@
 # Food-Killer
-Это мой первый проект!
 https://youtu.be/663kaEgh69A
 
 The Food Killer project is a remake of the famous game, which contains additions to the gameplay mechanics.
